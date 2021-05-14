@@ -1,0 +1,44 @@
+body {
+  margin: 0 auto;
+}
+.Header {
+  width: 1536px;
+  height: 70px;
+  padding-top: 10px;
+  display: flex;
+  background-color: aquamarine;
+}
+.logo {
+  margin-left: 150px;
+}
+.icons {
+  display: flex;
+  padding-top: 5px;
+  margin-left: 300px;
+}
+.logo-instagram {
+  width: 60px;
+  height: 60px;
+}
+.inp-btn {
+  padding-top: 20px;
+  margin-left: 400px;
+}
+
+.dom {
+  width: 100px;
+  height: 50px;
+}
+
+.bell {
+  width: 100px;
+  height: 50px;
+}
+.sms {
+  width: 100px;
+  height: 50px;
+}
+.profile {
+  width: 100px;
+  height: 50px;
+}
